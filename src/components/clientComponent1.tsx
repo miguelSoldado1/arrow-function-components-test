@@ -1,7 +1,7 @@
 "use client";
 
 import React from "react";
-import { ClientComponent2 } from "./clientComponent2";
+import { ClientComponent2 } from ".";
 
 export const ClientComponent1 = () => {
   return (
